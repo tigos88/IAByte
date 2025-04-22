@@ -35,13 +35,4 @@ Repositório com os principais links relacionados ao curso **Introdução à An�
 ---
 
 📌 *Atualize este documento conforme novos materiais forem disponibilizados.*
-"""
-
-# Caminho do arquivo
-file_path = Path("/mnt/data/links-I2A2.md")
-
-# Criar o arquivo
-file_path.write_text(markdown_content, encoding="utf-8")
-
-file_path
-
+""
