@@ -1,7 +1,6 @@
-from pathlib import Path
 
 # Conteúdo do arquivo Markdown
-markdown_content = """# Links L3 – Curso I2A2
+# Links L3 – Curso I2A2
 
 Repositório com os principais links relacionados ao curso **Introdução à Análise e Aplicações II (I2A2)** – Agentes Autônomos com IA Generativa.
 
